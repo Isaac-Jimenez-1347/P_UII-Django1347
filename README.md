@@ -14,4 +14,4 @@ Configuraciones básicas para trabajar con el frameworb de Django :)
 - 11 *Creando el proyecto --> django-admin startproject webDrog-in_proy.*
 - 12 *Realizar migracion al proyecto --> python manage.py migrate*
 - 13 *Ejecutar servidor --> python manage.py runserver*
-- Me trabajo el proyecto
+- Me trabajo el proyecto --> https://127.0.0.1:8000/
