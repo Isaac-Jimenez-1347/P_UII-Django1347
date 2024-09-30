@@ -1,0 +1,16 @@
+- crear aplicacion Jimenezclase_app
+- comandoo --> python manage.py startapp Jimenezclase_app
+- creamos el archivo urls.py en Jimenezclase_app
+- ![alt text](image-1.png)
+- En setting.py de p2clase1347
+- ![alt text](image.png)
+- en urls.py de p2clase1347
+- ![alt text](image-2.png)
+- en urls.py de Jimenezclase_app
+- ![alt text](image-3.png)
+- en views.py de Jimenezclase_app
+- ![alt text](image-4.png)
+- en urls.py de Jimenezclase_app
+- ![alt text](image-5.png)
+- 
+ 
